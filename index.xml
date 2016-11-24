@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Knup Schreinerarbeiten</title>
-    <link>https://knup-schreinerarbeiten.ch/</link>
+    <link>https://mueggi.github.io/knup/</link>
     <description>Recent content on Knup Schreinerarbeiten</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-ch</language>
-    <atom:link href="https://knup-schreinerarbeiten.ch/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mueggi.github.io/knup/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
